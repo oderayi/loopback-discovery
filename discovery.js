@@ -5,9 +5,7 @@
  * This is a model discovery script for LoopBack
  * This script assumes you have set up a datasource named "exposed_db" in your datasources.json file.
  * This script supports any database driver because it uses core LoopBack APIs.
- * 
- * Usage: 
- *   $ node ./server/discovery
+ *
  *
  * @file    /server/discovery.js
  * @author  Steven Oderayi
